@@ -7,6 +7,7 @@
 I have extensive experience in programming several languages.
 
 - Java
+- Python
 - JavaScript
 - PHP
 - Sql
