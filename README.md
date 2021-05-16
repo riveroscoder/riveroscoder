@@ -1,4 +1,4 @@
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 
 ⚔️ | Information:
@@ -48,4 +48,4 @@ SWPortalAddon+ [SkyWars Cookloco Addon]
 - Spigot: https://www.spigotmc.org/resources/swportaladdon-skywars-cookloco-addon-portal-random-game.92344/
 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
