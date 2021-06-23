@@ -24,6 +24,7 @@ Here is some information about the servers I work on.
 - RushPlay Network [Web-Developer]
 - EternityPlay Network [Developer]
 - Vyler Network [Owner & Developer]
+- HyCraft Network [Developer]
 - MoonFlex Network [Owner & Developer]
 - ReedSing Network [CoFounder & Developer]
 
