@@ -4,6 +4,9 @@
 
 :computer: _Software Engenieer at [HyCraft Network](https://github.com/Hycraft-Network)_ :desert_island:Living in Colombia 🇨🇴
 <br>
+![](https://discord-md-badge.vercel.app/api/shield/739688924464545922)
+<br>
+<br>
 ![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
 
 ---
