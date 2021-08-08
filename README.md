@@ -13,14 +13,9 @@ I have extensive experience in programming several languages.
 - Sql
 - Lua
 - LuaC
-- <br>
-## Ahora mismo estoy:
-<a href="https://discord.com/users/739688924464545922">
-  <img src="https://lanyard-profile-readme.vercel.app/api/739688924464545922?animated=true" align="center" height="205">
-</a>
 <br>
 
-🔑 | Experience:
+## 🔑 | Experience:
 
 ➥ I have varied experience in managing servers.
 Here is some information about the servers I work on.
@@ -34,7 +29,7 @@ Here is some information about the servers I work on.
 - MoonFlex Network [Owner & Developer]
 - ReedSing Network [CoFounder & Developer]
 
-🧭 | Briefcase:
+## 🧭 | Briefcase:
 
 ➥ Plugins developed by me:
 
