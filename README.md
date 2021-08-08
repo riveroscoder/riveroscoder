@@ -42,3 +42,5 @@
 ---
 
 ![Discord Banner 4](https://discordapp.com/api/guilds/799137406603231253/widget.png?style=banner4)
+![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner4)
+![Discord Banner 7](https://discordapp.com/api/guilds/848058187441635358/widget.png?style=banner4)
