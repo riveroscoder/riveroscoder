@@ -1,82 +1,55 @@
-<h2>Hola, soy Riveros👋🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Siddharth Belbase.</a></strong>
+</h1>
+
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+
+<a target="_blank" href="https://linkedin.com/in/sidbelbase/">
+<img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge">
+</a>
+<a target="_blank" href="https://twitter.com/sidbelbase">
+<img src="https://img.shields.io/badge/sidbelbase-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sidbelbase" alt="Twitter Badge">
+</a>
+<a target="_blank" href="https://instagram.com/sidbelbase/">
+<img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
+</a>
+<a target="_blank" href="https://behance.net/sidbelbase/">
+<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge">
+</a>
+<br>
+
+<br>
+
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+const sidbelbase = {
+  education: "UnderGraduate",
+  otherAlias: "Full Stack Developer",
+  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
+  currentlylearning: ["MongoDB", "AI & ML","Django", "Scuva Diving"],
+  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
+  experiences: [
+    {
+      company : "Behance",
+      post : "Graphic Designer | Freelancing"
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+    {
+      company : "Eagle Eye Pvt. Ltd",
+      post : "Senior Graphic Designer"
+    }
+  ],
+availableForHire: true
+}
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
-```text
-🌞 Morning    106 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
+![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
 
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-JavaScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
-Python                   5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-YAML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
-
-🔥 Editors: 
-PyCharm                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
-WebStorm                 7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.33% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
-
-💻 Operating Systems: 
-Windows                  18 hrs 52 mins      █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-
-⭐️ From [@anmol098](https://github.com/anmol098)
+<p align="center"><a href="https://github.com/sidbelbase">⭐️ From sidbelbase</a></p>
