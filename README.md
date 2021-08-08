@@ -3,6 +3,7 @@
 
 
 :computer: _Software Engenieer at [HyCraft Network](https://github.com/Hycraft-Network)_ :desert_island:Living in Colombia 🇨🇴
+<br>
 ![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
 
 ---
