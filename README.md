@@ -1,7 +1,7 @@
 
 [![Header](https://imgur.com/rZYH2fi.png)](https://www.youtube.com/XxGerfixX)
 
-[![yodaservices.net](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://dsc.gg/yodaservices)
+[![yodaservices.net](https://img.shields.io/badge/-YODASERVICES.NET-000000?style=for-the-badge&logo=react&logoColor=white)](https://dsc.gg/yodaservices)
 
 **Languages I have used**
 
