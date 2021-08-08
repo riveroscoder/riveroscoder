@@ -41,4 +41,4 @@
 
 ---
 
-![Made with love in Colombia](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Discord Banner 4](https://discordapp.com/api/guilds/799137406603231253/widget.png?style=banner4)
