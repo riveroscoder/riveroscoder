@@ -4,6 +4,8 @@
 
 :computer: _Software Engenieer at [HyCraft Network](https://github.com/Hycraft-Network)_ :desert_island:Living in Colombia 🇨🇴
 
+---
+
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
