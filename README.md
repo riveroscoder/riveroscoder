@@ -1,57 +1,45 @@
 
 [![Header](https://imgur.com/rZYH2fi.png)](https://www.youtube.com/XxGerfixX)
 
-[![yodaservices.net](https://img.shields.io/badge/-YODASERVICES.NET-000000?style=for-the-badge&logo=react&logoColor=white)](https://dsc.gg/yodaservices)
 
-**Languages I have used**
+:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+### My Tech Stack
 
-**Some of the technologies I have worked with**
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
+![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-**Web/Full Stack projects**
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-**Cybersecurity projects**
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-**Other projects**
-
-[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-
+---
+⭐️ From [Gaboso](https://github.com/Gaboso)
