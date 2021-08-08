@@ -1,7 +1,7 @@
 
 
 
-⚔️ | Information:
+## ⚔️ | Information:
 
 ➥ Hi! my name is Riveros, I've been in this developer job for 5 years.
 I have extensive experience in programming several languages.
@@ -13,10 +13,12 @@ I have extensive experience in programming several languages.
 - Sql
 - Lua
 - LuaC
+- <br>
 ## Ahora mismo estoy:
-<a href="https://discord.com/users/569964436165754924">
-  <img src="https://lanyard-profile-readme.vercel.app/api/569964436165754924?animated=true" align="center" height="205">
+<a href="https://discord.com/users/739688924464545922">
+  <img src="https://lanyard-profile-readme.vercel.app/api/739688924464545922?animated=true" align="center" height="205">
 </a>
+<br>
 
 🔑 | Experience:
 
