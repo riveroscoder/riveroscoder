@@ -29,6 +29,13 @@ Here is some information about the servers I work on.
 - MoonFlex Network [Owner & Developer]
 - ReedSing Network [CoFounder & Developer]
 
+
+**Rohit Jain**
+
+- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
+
 ## 🧭 | Briefcase:
 
 ➥ Plugins developed by me:
