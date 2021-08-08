@@ -2,7 +2,7 @@
 [![Header](https://imgur.com/rZYH2fi.png)](https://www.youtube.com/XxGerfixX)
 
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Engenieer at [HyCraft Network](https://github.com/Hycraft-Network)_ :desert_island:Living in Colombia 🇨🇴
 
 ### My Tech Stack
 
