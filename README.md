@@ -45,4 +45,4 @@
 ![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
 ![Discord Banner 7](https://discordapp.com/api/guilds/848058187441635358/widget.png?style=banner2)
 ![Discord Banner 8](https://discordapp.com/api/guilds/580371016090648586/widget.png?style=banner2)
-![Discord Banner 7](https://discordapp.com/api/guilds/512001353300705290/widget.png?style=banner2)
+![Discord Banner 7](https://discordapp.com/api/guilds/853758739009503242/widget.png?style=banner2)
