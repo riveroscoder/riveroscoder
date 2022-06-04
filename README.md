@@ -10,9 +10,9 @@
 ![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=riveroscoder&theme=dark&show_icons=true)](https://github.com/riveroscoder/)
+[![card](https://github-readme-stats.vercel.app/api?username=riveroscoder&theme=Merko&show_icons=true)](https://github.com/riveroscoder/)
 
-[![riveroscoder](https://github-readme-stats.vercel.app/api/top-langs/?username=riveroscoder&hide=html&layout=compact&theme=dark)](https://github.com/riveroscoder/)
+[![riveroscoder](https://github-readme-stats.vercel.app/api/top-langs/?username=riveroscoder&hide=html&layout=compact&theme=Merko)](https://github.com/riveroscoder/)
 
 ---
 
