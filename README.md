@@ -2,12 +2,14 @@
 [![Header](https://imgur.com/rZYH2fi.png)](https://www.youtube.com/XxGerfixX)
 
 
-:computer: _Software Engenieer at [HyCraft Network](https://github.com/Hycraft-Network)_ :desert_island:Living in Colombia 🇨🇴
+:computer: _Software Engenieer at [ZeliCraft Network](https://github.com/zelicraft)_ :desert_island:Living in Colombia 🇨🇴
 <br>
 <br>
 ![](https://discord-md-badge.vercel.app/api/shield/739688924464545922)
 <br>
-![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/992594325617770657/widget.png?style=banner2)
+
+
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=riveroscoder&theme=Merko&show_icons=true)](https://github.com/riveroscoder/)
@@ -51,6 +53,7 @@
 
 ---
 
+![Discord Banner 3](https://discordapp.com/api/guilds/676819329907687465/widget.png?style=banner2)
 ![Discord Banner 4](https://discordapp.com/api/guilds/799137406603231253/widget.png?style=banner2)
 ![Discord Banner 7](https://discordapp.com/api/guilds/848058187441635358/widget.png?style=banner2)
 ![Discord Banner 8](https://discordapp.com/api/guilds/580371016090648586/widget.png?style=banner2)
