@@ -1,10 +1,7 @@
 
-[![Header](https://imgur.com/LiKQG7A.png)](https://www.youtube.com/XxGerfixX)
+[![Header](https://imgur.com/LiKQG7A.png)](https://imgur.com/LiKQG7A.png)
 
 
-:computer: _Software Engenieer at [ZeliCraft Network](https://github.com/zelicraft)_ :desert_island:Living in Colombia
-<br>
-<br>
 ![](https://discord-md-badge.vercel.app/api/shield/739688924464545922?logoColor=ff6b6b)
 <br>
 ![Discord Banner 2](https://discordapp.com/api/guilds/992594325617770657/widget.png?style=banner2)
